@@ -1,6 +1,6 @@
 # teleport-update
 
-Scrits to update running version of Teleport when connected to the instance via Teleport itself.
+Scrits to update running version of Teleport Enterprise when connected to the instance via Teleport itself.
 
 Usage:
-`./update-teleport.sh <version>`
+`./upgrade-teleport.sh <version>`
